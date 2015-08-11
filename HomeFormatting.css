@@ -1,0 +1,54 @@
+.navbar {
+    background-color: #383838;
+}
+
+.jumbotron {
+    background-color: #888888;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron h1 {
+  border: 3px solid #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  color: #ffffff;
+  padding: 50px;
+}
+
+.jumbotron p {
+  border: 3px solid #ffffff;
+}
+
+.nav p {
+  color: #ffffff;
+  font-size: 11px;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.jumbotron h1 {
+  color: #ffffff;
+  font-size: 48px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.information {
+  background-color: #f7f7f7;
+}
+
+.information h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.information a {
+  color: #00b0ff;
+}
